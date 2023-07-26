@@ -1,0 +1,30 @@
+Algoritmo HoraDeAcordar
+    // Passo 1
+    Escreva("1 - Abrir os olhos")
+
+    // Passo 2
+    Escreva("2 - Levantar da cama")
+
+    // Passo 3
+    Escreva("3 - Ir para o banheiro")
+    Escreva("    - Lavar o rosto")
+    Escreva("    - Escovar os dentes")
+    Escreva("    - Fazer as necessidades")
+
+    // Passo 4
+    Escreva("4 - Alongar-se")
+    Escreva("    - Faça alguns alongamentos leves para despertar o corpo")
+
+    // Passo 5
+    Escreva("5 - Hidratar-se")
+    Escreva("    - Beba um copo de água para se hidratar após o sono")
+
+    // Passo 6
+    Escreva("6 - Vesti-se")
+    Escreva("    - Escolha suas roupas para o dia")
+
+    // Passo 7
+    Escreva("7 - Café da manhã")
+    Escreva("    - Prepare e tome um café da manhã saudável")
+
+FimAlgoritmo
